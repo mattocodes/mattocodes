@@ -7,6 +7,5 @@
 - 👯 I’m looking to collaborate on an open source project
 - 🤔 I’m seeking career opportunity in the Cloud DevOps space
 - 📫 How to reach me: via email
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an Alien 😉
 
